@@ -1,9 +1,9 @@
 #Readings on Scientific Expertise
 
-Callon, M., Lascoumes, P., & Barthe, Y. (2009). Acting in an uncertain world: An essay on technical democracy (G. Burchell, Trans.).
-Collins, H. M., & Evans, R. (2002). The third wave of science studies: Studies of expertise and experience. Social studies of science, 32(2), 235-296.
-Collins, H., & Evans, R. (2007). Rethinking Expertise.
-Danisch, R. (2010). Political rhetoric in a world risk society. Rhetoric Society Quarterly, 40(2), 172–192. doi:10.1080/
++Callon, M., Lascoumes, P., & Barthe, Y. (2009). Acting in an uncertain world: An essay on technical democracy (G. Burchell, Trans.).
++Collins, H. M., & Evans, R. (2002). The third wave of science studies: Studies of expertise and experience. Social studies of science, 32(2), 235-296.
++Collins, H., & Evans, R. (2007). Rethinking Expertise.
++Danisch, R. (2010). Political rhetoric in a world risk society. Rhetoric Society Quarterly, 40(2), 172–192. doi:10.1080/
 Fuller, S. (1988). Social epistemology. John Wiley & Sons, Ltd.
 Fuller, S. (2013). Manufactured scientific consensus: A reply to Ceccarelli. Rhetoric & Public Affairs, 16(4), 753-760.
 Funtowicz, S. O., & Ravetz, J. R. (1995). Science for the post normal age. In Perspectives on ecological integrity (pp. 146-161). Springer, Dordrecht.
