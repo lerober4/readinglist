@@ -1,4 +1,4 @@
-#Readings on Scientific Expertise
+# Readings on Scientific Expertise
 
 1. Callon, M., Lascoumes, P., & Barthe, Y. (2009). Acting in an uncertain world: An essay on technical democracy (G. Burchell, Trans.).
 2. Collins, H. M., & Evans, R. (2002). The third wave of science studies: Studies of expertise and experience. Social studies of science, 32(2), 235-296.
